@@ -1,0 +1,1 @@
+This is mingu's first git project!
